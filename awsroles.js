@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  Filter non admin roles in AWS SAML page
 // @author       Lantrix
+// @downloadURL  https://github.com/lantrix/userscript-awsroles/raw/master/awsroles.js
 // @match        https://signin.aws.amazon.com/saml
 // @grant        none
 // ==/UserScript==
